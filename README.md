@@ -14,7 +14,7 @@ It is Xinlong Wu.
   Email: s3860954@student.rmit.edu.au
   
 This GitHub account is only for RMIT Study.
-My main GitHub account is @Xinlong-WU
+My main GitHub account is [@VincentWu](https://github.com/Xinlong-WU)
 
 #### XinlongWu's GitHub stats
 [![XinlongWu's GitHub stats](https://github-readme-stats.vercel.app/api?username=XinlongWu-s3860954&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/XinlongWu-s3860954)
