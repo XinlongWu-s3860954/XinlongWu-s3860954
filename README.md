@@ -5,7 +5,7 @@ It is Xinlong Wu.
 
    A bachelor student of RMIT Australia
 
-- 😄 My Bolg *(Unfortunately it's now in Chinese)*:
+- 😄 My Bolg *(It's now in Chinese)*:
 
    [Vincent | Laboratory](https://www.wulongxin.com/)
 
